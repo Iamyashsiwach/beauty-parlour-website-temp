@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Hero = () => {
   return (
     <div className="relative h-screen">
@@ -21,7 +19,7 @@ const Hero = () => {
             Experience luxury beauty treatments tailored just for you
           </p>
           <a
-            href="/booking"
+            href="#booking"
             className="inline-block bg-rose-600 text-white px-8 py-3 rounded-full
                      hover:bg-rose-700 transition-colors duration-200"
           >
