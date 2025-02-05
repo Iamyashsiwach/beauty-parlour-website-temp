@@ -1,2 +1,2 @@
 # beauty parlour website temp
- tamplate
+ Perview: https://beauty-parlour-website.vercel.app
